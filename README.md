@@ -3,9 +3,9 @@
 
 # About Me
 
-## Hi there! 👋 I'm John Doe
+## Hi there! 👋 I'm Khan Awsafur Rahman
 
-I'm a budding **Front End Developer** with a passion for creating interactive and responsive web applications. I'm constantly learning and exploring new technologies to enhance my skills and bring my ideas to life.
+I'm a passionate Web Developer dedicated to creating engaging, responsive web applications. With a commitment to continuous learning, I eagerly explore new technologies to enhance my skills and bring innovative ideas to life.
 
 ### Skills
 - **Languages**: HTML, CSS, C++, JavaScript, Php
