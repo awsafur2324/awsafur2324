@@ -50,7 +50,6 @@ Feel free to connect with me!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## Star Count
 [![Awsafur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsafur2324)](https://github.com/awsafur2324/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=awsafur2324.awsafur2324)
