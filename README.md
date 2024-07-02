@@ -62,12 +62,6 @@ Feel free to connect with me!
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=awsafur2324&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/awsafur2324/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=awsafur2324&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
 
 <!-- GitHub section: END -->
 
