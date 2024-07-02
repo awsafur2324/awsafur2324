@@ -1,5 +1,5 @@
 
-<img src="https://github.com/awsafur2324/awsafur2324/assets/154707560/4d2213cd-9656-4186-979c-1ab75234a436" width="100%" />
+<img src="https://i.ibb.co/JH2XBr4/mygif-ezgif-com-gif-to-webp-converter.webp" width="100%" />
 
 # About Me
 
@@ -70,5 +70,5 @@ Feel free to connect with me!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awsafur2324&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<!-- THE END -->
+
 
