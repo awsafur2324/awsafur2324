@@ -51,6 +51,6 @@ Feel free to connect with me!
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ## Star Count
-[![Awsafur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsafur2324)](https://github.com/anuraghazra/github-readme-stats)
+[![Awsafur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsafur2324)](https://github.com/awsafur2324/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
