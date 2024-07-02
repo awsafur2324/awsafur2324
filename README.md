@@ -52,4 +52,4 @@ Feel free to connect with me!
 
 [![Awsafur's GitHub stats](https://github-readme-stats.vercel.app/api?username=awsafur2324)](https://github.com/awsafur2324/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=awsafur2324.2324)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=awsafur2324.awsafur2324)
