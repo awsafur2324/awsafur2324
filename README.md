@@ -70,5 +70,9 @@ Feel free to connect with me!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awsafur2324&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
+## 💡 Projects with My Work
 
+- [**75.team**](https://75.team): The Official Blog for 75team, the largest front end team in @Qihoo360.
+- [**75CDN**](https://cdn.baomitu.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
+- [**声享**](https://ppt.baomitu.com): Create and share your presentations online.
 
