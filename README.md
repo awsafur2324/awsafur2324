@@ -11,11 +11,11 @@ I'm a passionate Web Developer dedicated to creating engaging, responsive web ap
 - **Languages**: HTML, CSS, C++, JavaScript, Php
 - **Front-End**: React, Tailwind, Bootstrap 5
 - **Back-End**: Mysql, Node js, express
+- **Framework**: Laravel , 
 - **Tools**: Git, GitHub, VS Code
 - **Design**: Figma, Adobe XD
 
 ### Learning Path
-- Currently learning Laravel
 - Exploring Next.js
 
 ### Get in Touch
@@ -73,7 +73,4 @@ Feel free to connect with me!
 - [**Volunteer Manager**](https://github.com/awsafur2324/volunteer_Manager_fornt_end): The best website to post and find volunteers for anything.
 - [**Paint House**](https://github.com/awsafur2324/paintHouse_fornt_end): A site where users can post and manage their paintings and artwork. 
 
-<!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awsafur2324&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
