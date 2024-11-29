@@ -11,7 +11,7 @@ I'm a passionate Web Developer dedicated to creating engaging, responsive web ap
 - **Languages**: HTML, CSS, C++, JavaScript, Php
 - **Front-End**: React, Tailwind, Bootstrap 5
 - **Back-End**: Mysql, Node js, express
-- **Framework**: Laravel , 
+- **Framework**: Laravel
 - **Tools**: Git, GitHub, VS Code
 - **Design**: Figma, Adobe XD
 
@@ -35,6 +35,7 @@ Feel free to connect with me!
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
